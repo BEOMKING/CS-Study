@@ -1,7 +1,42 @@
+
+
 # CS 학습 플랜/정리 템플릿
+
 과목별 추천 동영상 강의를 중심으로 진도를 추적하고 배운 내용을 정리하기 위한 템플릿
 
-### 이산 수학
+| 주차                 | 월                  | 화   | 수   | 목   | 금   | 토   | 일   |
+| -------------------- | ------------------- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 1주차(08.23 ~ 08.29) | 데이터베이스 part_1 |      |      |      |      |      |      |
+
+### 데이터베이스
+
+| 파트 | 진행상태 | 학습시간 | 강의내용                       | 비고 |
+| ---- | -------- | -------- | ------------------------------ | ---- |
+| 1    | ⬜        | 1        | 데이터베이스                   |      |
+| 2    | ⬜        |          | INDEX                          |      |
+| 3    | ⬜        |          | 정규화에 대해서                |      |
+| 4    | ⬜        |          | Transaction                    |      |
+| 5    | ⬜        |          | 교착상태                       |      |
+| 6    | ⬜        |          | Statement vs PreparedStatement |      |
+| 7    | ⬜        |          | NoSQL                          |      |
+
+REFERENCE
+
+- https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Database
+- https://github.com/WeareSoft/tech-interview/blob/master/contents/db.md
+
+### 소프트웨어공학
+
+| 파트 | 진행상태 | 학습시간 | 강의내용                     | 비고 |
+| ---- | -------- | -------- | ---------------------------- | ---- |
+| 1    | ⬜        | 1        | TDD(Test Driven Development) |      |
+| 2    | ⬜        |          | Agile                        |      |
+| 3    | ⬜        |          | DevOps                       |      |
+| 4    | ⬜        |          | Cleancode & Refactoring      |      |
+| 5    | ⬜        |          | Functional Programming       |      |
+| 6    | ⬜        |          | Object-Oriented Programming  |      |
+| 7    | ⬜        |          | 3rd party                    |      |
+
 |파트|진행상태|학습시간|강의내용|비고|
 | ------ | ------ | ------ | ------ | ------ |
 | | | | [강의 개요](이산-수학) | 권장 학습기간: `2주`, 학습분량: 주당 `7.5시간` |
