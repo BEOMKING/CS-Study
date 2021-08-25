@@ -17,7 +17,7 @@
 | ---- | ------------------ | -------- | ------------------------------ | ---- |
 | 1    | :white_check_mark: | 2        | 데이터베이스와 DBMS란?         |      |
 | 2    | :white_check_mark: | 1        | INDEX                          |      |
-| 3    | ⬜                  |          | 정규화에 대해서                |      |
+| 3    | :white_check_mark: | 1        | 정규화에 대해서                |      |
 | 4    | ⬜                  |          | Transaction                    |      |
 | 5    | ⬜                  |          | 교착상태                       |      |
 | 6    | ⬜                  |          | Statement vs PreparedStatement |      |
