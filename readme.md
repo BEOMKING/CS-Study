@@ -2,7 +2,7 @@
 
 # CS 학습 플랜/정리 템플릿
 
-과목별 추천 동영상 강의를 중심으로 진도를 추적하고 배운 내용을 정리하기 위한 템플릿
+과목별 추천 동영상 강의 또는 검색을 중심으로 진도를 추적하고 배운 내용을 정리하기 위한 템플릿
 
 | 주차                 | 월                     | 화    | 수     | 목          | 금       | 토                             | 일    |
 | -------------------- | ---------------------- | ----- | ------ | ----------- | -------- | ------------------------------ | ----- |
@@ -13,15 +13,15 @@
 
 ### 데이터베이스
 
-| 파트 | 진행상태           | 학습시간 | 강의내용                       | 비고 |
-| ---- | ------------------ | -------- | ------------------------------ | ---- |
-| 1    | :white_check_mark: | 2        | 데이터베이스와 DBMS란?         |      |
-| 2    | :white_check_mark: | 1        | INDEX                          |      |
-| 3    | :white_check_mark: | 1        | 정규화에 대해서                |      |
-| 4    | ⬜                  |          | Transaction                    |      |
-| 5    | ⬜                  |          | 교착상태                       |      |
-| 6    | ⬜                  |          | Statement vs PreparedStatement |      |
-| 7    | ⬜                  |          | NoSQL                          |      |
+| 파트 | 진행상태           | 학습시간 | 강의내용                                                     | 비고 |
+| ---- | ------------------ | -------- | ------------------------------------------------------------ | ---- |
+| 1    | :white_check_mark: | 2        | [데이터베이스와 DBMS란?](https://beomking.github.io/db/whatisdb/) |      |
+| 2    | :white_check_mark: | 1        | [INDEX](https://beomking.github.io/db/aboutdbms/)            |      |
+| 3    | :white_check_mark: | 1        | [정규화](https://beomking.github.io/db/aboutnomalization/)   |      |
+| 4    | :white_check_mark: | 2        | [Transaction](https://beomking.github.io/db/abouttransaction/) |      |
+| 5    | ⬜                  |          | 교착상태                                                     |      |
+| 6    | ⬜                  |          | Statement vs PreparedStatement                               |      |
+| 7    | ⬜                  |          | NoSQL                                                        |      |
 
 REFERENCE
 
