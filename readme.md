@@ -4,12 +4,12 @@
 
 검색을 중심으로 진도를 추적하고 배운 내용을 정리([GIt Blog](https://beomking.github.io/))하기 위한 템플릿
 
-| 주차                 | 월                     | 화    | 수     | 목          | 금       | 토                             | 일    |
-| -------------------- | ---------------------- | ----- | ------ | ----------- | -------- | ------------------------------ | ----- |
-| 1주차(08.23 ~ 08.29) | 데이터베이스와 DBMS란? | INDEX | 정규화 | Transaction | 교착상태 | Statement vs PreparedStatement | NoSQL |
-|                      |                        |       |        |             |          |                                |       |
-|                      |                        |       |        |             |          |                                |       |
-|                      |                        |       |        |             |          |                                |       |
+| 주차                 | 월                     | 화    | 수     | 목          | 금       | 토        | 일    |
+| -------------------- | ---------------------- | ----- | ------ | ----------- | -------- | --------- | ----- |
+| 1주차(08.23 ~ 08.29) | 데이터베이스와 DBMS란? | INDEX | 정규화 | Transaction | 교착상태 | JPA & ORM | NoSQL |
+|                      |                        |       |        |             |          |           |       |
+|                      |                        |       |        |             |          |           |       |
+|                      |                        |       |        |             |          |           |       |
 
 ### 데이터베이스
 
@@ -20,7 +20,7 @@
 | 3    | :white_check_mark: | 1        | [정규화](https://beomking.github.io/db/aboutnomalization/)   |      |
 | 4    | :white_check_mark: | 2        | [Transaction](https://beomking.github.io/db/abouttransaction/) |      |
 | 5    | ⬜                  |          | 교착상태                                                     |      |
-| 6    | ⬜                  |          | Statement vs PreparedStatement                               |      |
+| 6    | :white_check_mark: | 1        | [JPA & ORM](https://beomking.github.io/jpa/JPAORM/)          |      |
 | 7    | ⬜                  |          | NoSQL                                                        |      |
 
 REFERENCE
